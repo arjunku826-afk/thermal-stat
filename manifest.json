@@ -1,0 +1,10 @@
+{
+  "type": "preload-native",
+  "name": "Thermal States",
+  "author": "caramelmc",
+  "version": "1.0.0",
+  "entry": "libthermal_states.so",
+  "minecraft_versions": [],
+  "overwrite_files": [],
+  "overwrite_folders": []
+}
