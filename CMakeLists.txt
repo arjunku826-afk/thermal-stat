@@ -9,7 +9,7 @@ include(FetchContent)
 FetchContent_Declare(
     sweetloader_android
     GIT_REPOSITORY https://github.com/ChimeraAnt-DEV/preloader-android.git
-    GIT_TAG 0.2.2)
+    GIT_TAG b5e90a267b37871685c71f7c016234a286cbb43d)
 FetchContent_MakeAvailable(sweetloader_android)
 
 # Produces libthermal_states.so, which manifest.json's "entry" points at.
